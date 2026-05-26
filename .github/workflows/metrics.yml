@@ -27,7 +27,7 @@ jobs:
           token: ${{ secrets.METRIC_TOKEN }}
 
           # Options
-          user: blackwinterpointer
+          user: toffeeframe
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Damascus
